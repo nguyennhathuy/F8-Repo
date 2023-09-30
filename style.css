@@ -1,3 +1,8 @@
-div {
-    color: red;
+button {
+    cursor: pointer;
+    border: none;
+    background-color: aqua;
+    padding: 5px 10px;
+    border-radius: 3px;
+    border: 1px solid black;
 }
